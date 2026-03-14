@@ -1,17 +1,17 @@
 ---
-title: "Unknown Title"
-author: Unknown Author
-publisher: 
-dateLastRead: 
-readStatus: Unknown
-percentRead: 
-isbn: 
-series: 
-seriesNumber: 
-timeSpentReading: 
+title: Fluent Forever
+author: Gabriel Wyner
+publisher: RAUS
+dateLastRead:
+readStatus: Reading
+percentRead:
+isbn: 9780385348102
+series:
+seriesNumber:
+timeSpentReading:
 ---
 
-# Unknown Title
+# Fluent Forever
 
 ## Description
 

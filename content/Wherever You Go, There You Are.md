@@ -1,17 +1,17 @@
 ---
-title: "Unknown Title"
-author: Unknown Author
-publisher: 
-dateLastRead: 
+title: Wherever You Go There You Are
+author: Jon Kabat-Zinn
+publisher: Piatkus Books
+dateLastRead:
 readStatus: Unknown
-percentRead: 
-isbn: 
-series: 
-seriesNumber: 
-timeSpentReading: 
+percentRead:
+isbn:
+series:
+seriesNumber:
+timeSpentReading:
 ---
 
-# Unknown Title
+# Wherever You Go, There You Are
 
 ## Description
 

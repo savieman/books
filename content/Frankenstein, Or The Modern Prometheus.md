@@ -1,17 +1,17 @@
 ---
-title: "Unknown Title"
-author: Unknown Author
-publisher: 
-dateLastRead: 
+title: Frankenstein or The Modern Prometheus'
+author: Mary Wollstonecraft Shelley
+publisher:
+dateLastRead:
 readStatus: Unknown
-percentRead: 
-isbn: 
-series: 
-seriesNumber: 
-timeSpentReading: 
+percentRead:
+isbn:
+series:
+seriesNumber:
+timeSpentReading:
 ---
 
-# Unknown Title
+# Frankenstein, Or The Modern Prometheus
 
 ## Description
 

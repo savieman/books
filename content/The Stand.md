@@ -1,17 +1,17 @@
 ---
-title: "Unknown Title"
-author: Unknown Author
-publisher: 
-dateLastRead: 
+title: The Stand
+author: Stephen King
+publisher: Hodder & Stoughton
+dateLastRead:
 readStatus: Unknown
-percentRead: 
-isbn: 
-series: 
-seriesNumber: 
-timeSpentReading: 
+percentRead:
+isbn:
+series:
+seriesNumber:
+timeSpentReading:
 ---
 
-# Unknown Title
+# The Stand
 
 ## Description
 
